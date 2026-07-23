@@ -1,5 +1,8 @@
-# 💫 About Me:
-I know Full Stack with AI integration <br>I know MERN Stack 
+# 🙋 About Me
+
+    🔭 Currently working on Web Development & AI Projects
+    🎓 Pursuing Bachelor of Technology (B.Tech) in Computer Science
+    🤝 Open to opportunities as a Frontend developer or backend developer 
 
 
 ## 🌐 Socials:
